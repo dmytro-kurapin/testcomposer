@@ -1,0 +1,17 @@
+{
+  "name": "dmytro-kurapin/testcomposer",
+  "description": "Test first Composer",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Dmitriy Kurapin",
+      "email": "dmytrokurapin@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.1"
+  },
+  "autoload": {
+    "classmap":["src"]
+  }
+}
